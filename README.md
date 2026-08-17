@@ -1,2 +1,1 @@
-![LeetCode Card](https://leetcard.jacoblin.cool/Vedant_newcoder?theme=dark&font=Karma&ext=heatmap)
-
+https://leetcard.jacoblin.cool/Vedant_newcoder?theme=THEME&font=FONT&ext=heatmap
