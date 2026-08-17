@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vedant_newcoder?theme=dark&ext=heatmap)
+![LeetCode Heatmap](https://leetcode-badge.haozibi.dev/v1/chart/submission-calendar/Vedant_newcoder.svg?type=past-year&color=green)
