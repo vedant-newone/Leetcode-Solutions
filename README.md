@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Vedant_newcoder&theme=dark)
+<img src="https://leetcode-stats-six.vercel.app/api?username=Vedant_newcoder&theme=dark" alt="LeetCode Stats" />
