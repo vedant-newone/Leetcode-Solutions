@@ -1,1 +1,1 @@
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Vedant_newcoder)](https://leetcode.com/Vedant_newcoder)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Vedant_newcoder&theme=dark)
