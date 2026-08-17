@@ -1,1 +1,1 @@
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=Vedant_newcoder)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vedant_newcoder?theme=dark&ext=heatmap)
