@@ -1,4 +1,5 @@
 name: Sync LeetCode
+name: Sync LeetCode
 
 on:
   workflow_dispatch:
@@ -10,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync LeetCode
-        uses: joshcai/leetcode-sync@master
+        uses: LeetCode-OpenSource/leetcode-sync@v1.1.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
