@@ -1,1 +1,3 @@
-<img src="https://leetcode-stats-six.vercel.app/api?username=Vedant_newcoder&theme=dark" alt="LeetCode Stats" />
+<a href="https://leetcode.com/Vedant_newcoder/">
+  <img src="https://leetcode-stats-api.herokuapp.com/Vedant_newcoder" alt="LeetCode Profile" />
+</a>
