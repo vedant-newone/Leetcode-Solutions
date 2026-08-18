@@ -1,12 +1,11 @@
 int largestInteger(int* nums, int numsSize, int k) {
     int count[51] = {0};
 
-    // Count frequency of every number
+
     for(int i = 0; i < numsSize; i++) {
         count[nums[i]]++;
     }
 
-    // k = 1
     if(k == 1) {
         for(int i = 50; i >= 0; i--) {
             if(count[i] == 1) {
@@ -15,8 +14,6 @@ int largestInteger(int* nums, int numsSize, int k) {
         }
         return -1;
     }
-
-    // k = numsSize
     if(k == numsSize) {
         int max = nums[0];
 
@@ -29,7 +26,7 @@ int largestInteger(int* nums, int numsSize, int k) {
         return max;
     }
 
-    // 1 < k < numsSize
+
     int ans = -1;
 
     if(count[nums[0]] == 1) {
